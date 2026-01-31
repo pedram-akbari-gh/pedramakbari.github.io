@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "msedge",
+      "request": "launch",
+      "name": "Launch publications.html in Edge",
+      "file": "c:/Users/pedra/Documents/pedramakbari.github.io/publications.html"
+    }
+  ]
+}
